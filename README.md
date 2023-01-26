@@ -53,6 +53,12 @@ https://user-images.githubusercontent.com/121333630/214869344-e712833f-82aa-4c3f
 
 <hr>
 
+## Preview or Access the Responsive DashBoard from below link-    
+- ### [Access The live Responsive DashBoard Here](https://app.powerbi.com/view?r=eyJrIjoiMWRmNjhjZTUtMDc4Yi00YWRkLWI4NDYtMTFmZmE0MWIzMGMyIiwidCI6ImY3MDA5ZDIzLTRhOTAtNDJmMS05MTBkLTM3Y2JhYmI3N2UxZCIsImMiOjF9)
+- ### [DashBoard Presented in PDF format](https://github.com/HarshBorage22/Covid-19-Data-Analysis/blob/main/Covid19DataAnalysis.pdf)
+
+<hr>
+
 ## 🛠 Skills
 Data Analysis And Visualization, Power BI.
 <hr>
