@@ -4,4 +4,4 @@
 
 <hr>
 
-<img src="https://github.com/HarshBorage22/HR_Data_Analysis/blob/main/Dashboard.png" alt="DB">
+<img src="https://github.com/HarshBorage22/Covid-19-Data-Analysis/blob/main/PBIDesktop_XMUdt1YqtV.png" alt="DB">
