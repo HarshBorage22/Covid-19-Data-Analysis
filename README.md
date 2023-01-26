@@ -49,6 +49,8 @@ Note that [trackcorona.live](https://www.trackcorona.live) website is closed by 
 - [Stacked column Chart](https://www.tutorialgateway.org/power-bi-stacked-bar-chart/) Visual showing the data countrywise.
 - [Country Map](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-map-tips-and-tricks) Visual shows density of cases using the bubbles.
 
+https://user-images.githubusercontent.com/121333630/214869344-e712833f-82aa-4c3f-be1d-40060839a68d.mp4
+
 
 
 
