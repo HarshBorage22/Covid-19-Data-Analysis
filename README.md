@@ -51,6 +51,23 @@ Note that [trackcorona.live](https://www.trackcorona.live) website is closed by 
 
 https://user-images.githubusercontent.com/121333630/214869344-e712833f-82aa-4c3f-be1d-40060839a68d.mp4
 
+<hr>
+
+## 🛠 Skills
+Data Analysis And Visualization, Power BI.
+<hr>
+
+## Author
+
+- [@HarshBorage22](https://www.github.com/HarshBorage22)
+
+<hr>
+
+## Feedback
+
+If you have any feedback, please reach out to me at harshborage.22@gmail.com
+
+<hr>
 
 
 
