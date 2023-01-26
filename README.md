@@ -42,7 +42,7 @@ Note that [trackcorona.live](https://www.trackcorona.live) website is closed by 
 
 
 ## MS Power BI DashBoard
-#### There are 6 types of data visuals As follows:-
+#### There are 5 types of data visuals As follows:-
 - [Card](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-card?tabs=powerbi-desktop) Visuals showing the Confirmed, Active, Recovered cases and deaths along with [Recovery Rate](https://ijmsweb.com/covid-19-recovery-rate-and-its-association-with-development/) & [Fatality Rate](https://www.merriam-webster.com/dictionary/fatality%20rate#:~:text=Medical%20Definition-,fatality%20rate,deaths%20from%20a%20specific%20cause)
 - [Search](shorturl.at/hpNT7) Visuals gives control to search desired countrywise data.
 - [Table](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-tables) Visual showing the confirmed, recovered, active cases and deaths by country.
